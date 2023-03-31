@@ -1,0 +1,119 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: #1b8989;
+    padding: 20px;
+    font-size: 20px;
+    top: 0;
+}
+
+a {
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.float-right {
+    float: right;
+}
+
+.btn {
+    padding: 5px 10px 5px 10px;
+}
+
+body {
+    margin: 0;
+}
+
+.mt-1px {
+    margin-top: 1px;
+}
+
+.row {
+    display: flex;
+    padding-left: 120px;
+    padding-right: 50px;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 33.33%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card {
+    border: 1px solid rgb(95, 55, 55);
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.card a {
+    color: rgb(125, 95, 160);
+}
+
+.card p {
+    color: rgb(107, 106, 106);
+    text-align: justify;
+}
+
+.footer {
+    background-color: rgb(1, 2, 2);
+    padding: 5px;
+}
+
+.text-white {
+    color: white;
+}
+
+.footer-2 {
+    background-color: #1b8989;
+    padding: 5px;
+}
+
+.text_color {
+    color: rgb(241, 19, 19)
+}
+.btn-primary{
+    background-color: rgb(45, 97, 218);
+}
+.btn-warning{
+    background-color: rgb(246, 246, 16);
+    color: black;
+}
+.p-1{
+    padding: 10px
+    }
+.border{
+        border: 2px solid gray;
+        margin: 5px;
+        background-color: aliceblue;
+    }
+.m-3{
+        margin: 20px;
+       }
+.footer-3{
+    background-color: #1b8989;
+    padding: 20px;
+    font-size: 20px;
+}
